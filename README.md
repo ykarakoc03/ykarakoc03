@@ -10,14 +10,3 @@ Hi there 👋
     ⚡ Fun fact:
 
 
-Fun&Laugh
-
-visitors
-
-HTML5CSS3PythonMarkdownShell Script
-
-Rafe's GitHub stats
-
-GitHub Streak
-
-Top Langs
