@@ -1,6 +1,6 @@
 
 
-Hi there 👋
+# Hi there 👋
 
     🔭 I’m currently seeking work & life ballance.
     🌱 I’m currently learning Full-Stack Automation Engineer.
@@ -10,6 +10,7 @@ Hi there 👋
     😄 Pronouns: We only...
     ⚡ Fun fact:
 
+|:![LinkedIn](https://www.linkedin.com/in/ykarakoc/):|
 ![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
 
 
